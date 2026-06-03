@@ -3,7 +3,7 @@ Predictive text analysis project using IMDB movie review data to identify whethe
 
 ## Project Overview
 
-This project analyzes text data from IMDB movie reviews to predict whether a review expresses positive or negative sentiment. The dataset contains written movie reviews and sentiment labels connected to each review. The main objective of this project is to build a machine learning model that can classify reviews into two groups: 0 = Negative Review 1 = Positive Review. By identifying the words and patterns most associated with positive and negative sentiment, this analysis can help entertainment companies, streaming platforms, and review websites better understand audience feedback.
+This project analyzes text data from IMDB movie reviews to predict whether a review expresses positive or negative sentiment. The dataset contains written movie reviews and sentiment labels connected to each review. The main objective of this project is to build a machine learning model that can classify reviews into two groups: 0 = Negative Review 1 = Positive Review. By identifying the words and patterns most associated with positive and negative sentiment, this analysis can help entertainment companies, streaming platforms, and review websites better understand audience feedback. 
 
 ## Business Problem
 
